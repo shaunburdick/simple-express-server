@@ -8,7 +8,11 @@
     "url": "https://github.com/shaunburdick/simple-express-server.git"
   },
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.11.2"
-  }
+  },
+  "license": "MIT"
 }
